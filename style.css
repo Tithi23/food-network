@@ -48,3 +48,28 @@ h1{
     box-shadow: 10px 10px 20px gray;
     border-radius: 40px;
 }
+.social-dis{
+    width: 40%;
+    padding-right: 50%;
+    padding-left: 30%;
+    padding-bottom: 8%;
+}
+.link-display{ 
+    margin-top: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 30px;
+}
+footer{
+    text-align: center;
+    color: white;
+    padding-top: 5%;
+}
+.gray{
+    color: lightslategray;
+}
+#footer-id{
+    background-color: black;
+    padding-bottom: 10%;
+}
