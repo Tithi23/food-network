@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 0;
+    margin-right: 0;
 }
 h1{
     font-size: 70px;
@@ -10,13 +10,14 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 5%;
 }
 .padding{
     padding-left: 6%;
     padding-top: 10%;
 }
 .padding img{
-    padding-right: 12%;
+    padding-right: 8%;
 }
 .order-list{
     text-decoration: none;
@@ -25,4 +26,7 @@ section{
     padding: 20px 40px;
     color: white;
     border-radius: 40px;
+}
+.about-me{
+    background-image: url(images/7.png);
 }
