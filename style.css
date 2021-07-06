@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 70px;
+}
+.orange{
+    color: darkorange;
+}
+section{
+    display: flex;
+}
+.padding{
+    padding-left: 6%;
+    padding-top: 10%;
+}
+.padding img{
+    padding-right: 12%;
+}
+.order-list{
+    text-decoration: none;
+    background-image: linear-gradient(darkorange,tomato);
+    font-weight: 800;
+    padding: 20px 40px;
+    color: white;
+    border-radius: 40px;
+}
